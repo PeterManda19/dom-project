@@ -1,4 +1,4 @@
-# # dom-project
+# DOM-Intro Exercise
 
 # How the DOM loads
 This exercise demonstrates the importance of the order in which scripts are loaded on an HTML page, particularly when manipulating the DOM with JavaScript.
